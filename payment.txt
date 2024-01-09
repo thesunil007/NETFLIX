@@ -1,3 +1,4 @@
 sunil= 1000
 sonu= 2000
 kahn= 3000
+salman= 4000
